@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Sou o Antonio Sousa</h1>
+<h1 align="center">Prazer 👋, Antonio Sousa</h1>
 <h3 align="center">Um entusiasta de tecnologia desde os 13 anos de idade.</h3>
 
 
