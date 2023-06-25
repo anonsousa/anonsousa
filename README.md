@@ -4,7 +4,7 @@
 
 -  Aluno de Análise e Desenvolvimento de Sistemas **FIAP**
 
--  Estudante de Ingles (Intermediário) **Yes i Do**
+-  Estudante de Inglês (Intermediário) **Yes i Do**
 
 <h3 align="center">Minhas Redes:</h3>
 <p align="center">
