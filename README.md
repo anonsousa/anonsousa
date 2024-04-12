@@ -6,19 +6,6 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvMXl3NGtwZ3RpMHpjYmY2MHpmY3FmNXA3cmlsbDgyYjY1eWYwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonsousa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anonsousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
@@ -59,6 +46,19 @@
   <a href="anoon8992" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvMXl3NGtwZ3RpMHpjYmY2MHpmY3FmNXA3cmlsbDgyYjY1eWYwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonsousa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anonsousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
