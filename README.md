@@ -59,13 +59,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/anonsousa/anonsousa/output/snake.svg" alt="Snake animation" />
-
-###
