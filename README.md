@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as an Intern.<br>- 📚 I'm always studying about Microservices & Spring<br>- ⚡ In my free time I like to learn about world history.</p>
+<p align="left">- 🔭 I’m working as an Analyst.<br>- 📚 I'm always studying about Microservices & Spring<br>- ⚡ In my free time I like to learn about world history.</p>
 
 ###
 
